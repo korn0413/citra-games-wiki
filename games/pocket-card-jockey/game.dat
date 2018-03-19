@@ -1,5 +1,5 @@
 title = "Pocket Card Jockey"
-description = "Pocket Card Jockey (SolitiBa in Japan) is a horse racing game by Game Freak for the 3DS eShop. The game combines horse racing and simplified solitaire."
+description = "Pocket Card Jockey (SolitiBa in Japan) is a horse racing game by Game Freak. The game combines horse racing and simplified solitaire."
 needs_system_files = false
 needs_shared_font = true
 game_type = "eshop"
