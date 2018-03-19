@@ -5,6 +5,6 @@ needs_shared_font = true
 game_type = "eshop"
 
 [[releases]]
-title = "0004000000194800"
+title = "US:0004000000194800, EUR:0004000000194900, KOR:0004000000194A00, JPN:00040000000EB000"
 region = "usa"
 release_date = "2016-05-05"
